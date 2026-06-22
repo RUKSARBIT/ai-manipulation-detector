@@ -17,4 +17,4 @@ A machine learning project that detects whether input text is manipulative or no
 - Confidence: 63.4%
 
 ## Project Status
-Working prototype 🚀
+Working prototype with basic ML model integration 🚀

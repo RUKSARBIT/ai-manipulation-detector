@@ -1,16 +1,20 @@
-# AI-Manipulation Detector
+# AI-Manipulation Detector (Text-Based)
 
-A project that detects AI-manipulated images/content using machine learning techniques.
+A machine learning project that detects whether input text is manipulative or not using FastAPI. The model also provides a confidence score for each prediction.
 
 ## Features
-- Detects manipulated images
-- Backend + frontend structure
-- Simple and easy-to-use interface
+- Detects manipulative or non-manipulative text
+- Displays confidence score for prediction
+- Simple web interface using FastAPI backend
 
 ## Tech Stack
 - Python
-- HTML, CSS, JavaScript
-- Machine Learning
+- FastAPI
+- Machine Learning (NLP)
+
+## Output Example
+- Label: Manipulative  
+- Confidence: 63.4%
 
 ## Project Status
-Initial version uploaded 🚀
+Working prototype 🚀
